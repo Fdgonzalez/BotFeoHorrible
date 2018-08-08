@@ -1,0 +1,9 @@
+{
+  "name": "QLPEM",
+  "version": "1.0.0",
+  "description": "Borra los mensajes de musica fuera de los canales de musica",
+  "main": "bot.js",
+  "author": "FacuFacundo",
+  "dependencies": {
+  }
+}
